@@ -1,1 +1,1 @@
-# VOID-THE-AI-CODE-EDITOR
+Void is an open source cursor alternative
